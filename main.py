@@ -1,13 +1,18 @@
-variable = 10
+import keyword
 
-print(variable)
+print(keyword)
+print(keyword.kwlist)
 
-def funcion():
-  x = 5
-  return x
+#variable = 10
+
+#print(variable)
+
+#def funcion():
+  #x = 5
+  #return x
 # Imprime la fincion
-print(funcion())
+#print(funcion())
 
-nombre = 'Katerina'
+#nombre = 'Katerina'
 
-print('Hola', nombre)
+#print('Hola', nombre)
